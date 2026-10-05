@@ -36,17 +36,19 @@
 # 📖 Atualmente estudando:
 
 ### HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 
 ### CSS
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
 ### JavaScript
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 ### SQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 ### Git & GitHub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
 ### 💡 Essas tecnologias fazem parte da minha jornada de aprendizado e estou constantemente buscando melhorar meus conhecimentos.
 
@@ -55,26 +57,24 @@
 # 📌 Projetos
 ### 🚧 Em construção...
 
-Aqui você encontrará meus projetos acadêmicos e pessoais, mostrando minha evolução durante minha jornada como desenvolvedor.
+### Aqui você encontrará meus projetos acadêmicos e pessoais, mostrando minha evolução durante minha jornada como desenvolvedor.
 
-🎯 Objetivos
+#🎯 Objetivos
 
-📚 Aprender novas tecnologias
+### 📚 Aprender novas tecnologias
 
-💻 Desenvolver projetos cada vez melhores
+### 💻 Desenvolver projetos cada vez melhores
 
-🤝 Participar de projetos colaborativos
+### 🤝 Participar de projetos colaborativos
 
-🚀 Conseguir minha primeira oportunidade na área de tecnologia
+### 🚀 Conseguir minha primeira oportunidade na área de tecnologia
 
-🧠 Continuar evoluindo como desenvolvedor
+### 🧠 Continuar evoluindo como desenvolvedor
 
-📫 Contato
+# 📫 Contato
 
-📧 E-mail: [seu-email@email.com]
+### 📧 E-mail: gkaue3523@gmail.com
 
-💼 LinkedIn: [seu LinkedIn]
+### 🐙 GitHub: kaueribeiro08
 
-🐙 GitHub: [seu usuário]
-
-⭐ Obrigado por visitar meu perfil!
+# ⭐ Obrigado por visitar meu perfil!
